@@ -10,7 +10,7 @@ import linkedinLight from '../../assets/linkedin-light.svg';
 import linkedinDark from '../../assets/linkedin-dark.svg';
 import leetcodeDark from "../../assets/leetcodeDark.svg";
 import leetcodeLight from "../../assets/leetcodeLight.svg";
-import CV from '../../assets/cv.pdf';
+import CV from '../../assets/CV.pdf';
 import { useTheme } from '../../common/ThemeContext';
 
 function Hero() {
