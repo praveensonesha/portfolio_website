@@ -62,7 +62,7 @@ function Hero() {
         🚀 Building efficient, scalable solutions across the webs.<br/>
         💻 Passionate about delivering clean, effective code and seamless user experiences. ✨
         </p>
-        <a href={CV} target="_blank" rel="noopener noreferrer">
+        <a href={CV} target="_blank">
           <button className="hover">Resume</button>
         </a>
 
